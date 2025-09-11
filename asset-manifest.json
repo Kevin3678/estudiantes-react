@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/estudiantes-react/static/css/main.e6c13ad2.css",
+    "main.js": "/estudiantes-react/static/js/main.1cce14bd.js",
+    "static/js/453.67ae90b9.chunk.js": "/estudiantes-react/static/js/453.67ae90b9.chunk.js",
+    "index.html": "/estudiantes-react/index.html",
+    "main.e6c13ad2.css.map": "/estudiantes-react/static/css/main.e6c13ad2.css.map",
+    "main.1cce14bd.js.map": "/estudiantes-react/static/js/main.1cce14bd.js.map",
+    "453.67ae90b9.chunk.js.map": "/estudiantes-react/static/js/453.67ae90b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1cce14bd.js"
+  ]
+}
